@@ -1,5 +1,6 @@
 # Business Data Science Final Project Blog Publication & Code - 2021 Fall
 **_Use Machine Learning models (KNN Classifier, Logistic Regression, Random Forest Classifier, XGBoost, CatBoost; technique: Voting Classifier, Pseudo Labeling) on previous credit card data to predict the likelihood of future default credit payments._**
+
 [**Credit Card Default Detection**](https://medium.com/@shete.harshika/credit-card-default-detection-kaggle-a47c6bb5a35e)
 
 ## Introduction
